@@ -8,4 +8,4 @@ Two examples of React components that use SVG to produce a visualization, one si
 
 ## LabeledTimer
 
-`LabeledTimer` is a component that combines a label and a circular progress indicator implemented in a standalone `CircleTimer` component.
+`LabeledTimer` is a component that combines a label and a circular progress indicator, which is implemented in a standalone `CircleTimer` component.
